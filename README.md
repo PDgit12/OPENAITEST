@@ -1,1 +1,1 @@
-# OPENAITEST
+The application takes several inputs from the user, such as grade level, name, academic scores, SAT score, standardized tests taken, country, and state. Based on these inputs, it generates a personalized curriculum suggestion using OpenAI's GPT-3 model.
